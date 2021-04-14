@@ -23,3 +23,12 @@ WHERE idGenero = 3;
 
 DELETE Generos
 WHERE idGenero = 5;
+
+CREATE TABLE Usuarios
+(
+	idUsuario INT PRIMARY KEY IDENTITY,
+	email VARCHAR(250) NOT NULL UNIQUE,
+	senha VARCHAR(250) NOT NULL,
+	permissao VARCHAR(250) NOT NULL
+);
+GO

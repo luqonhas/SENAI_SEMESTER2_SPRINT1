@@ -11,3 +11,6 @@ SELECT * FROM Filmes;
 SELECT Titulo, Nome AS Genero FROM Filmes -- tabela 1
 INNER JOIN Generos -- tabela 2
 ON Filmes.idGenero = Generos.idGenero; -- junção das duas tabelas
+
+SELECT idUsuario, email, senha, permissao FROM Usuarios
+WHERE email = 'adm@email.com' AND senha = '1234';
