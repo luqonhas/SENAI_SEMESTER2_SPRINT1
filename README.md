@@ -1,4 +1,4 @@
-  <h2 align="center">Database</h2>
+  <h2 align="center">DATABASE</h2>
 
   <p align="center">
     Repository that has all the projects and exercises <br>performed in SPRINT 1 Database! 🎲
@@ -24,6 +24,8 @@ Be directed to the exercises or projects folder.
 <br />
 <a href="https://github.com/luqonhas/SENAI_SEMESTER2_SPRINT1/tree/main/PROJECTS"><strong> View Projects
 »</strong></a>
+<br>
+<br>
 
 ## Repository Map 🗺️
 
@@ -33,7 +35,7 @@ Be directed to the exercises or projects folder.
 <br>
 <div id='about'/>
 
-## About the Project 🔍
+## About the Repository 🔍
 This repository has all the exercises and projects carried out by @luqonhas in SPRINT 1 Database in the SYSTEMS DEVELOPMENT course at Escola SENAI de Informática.
 
 The studies in this repository started on <ins>**02/18/2021**</ins> and ended on <ins>**03/12/2021**</ins>.
