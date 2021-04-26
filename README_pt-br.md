@@ -1,4 +1,4 @@
-  <h2 align="center">Banco de Dados</h2>
+  <h2 align="center">BANCO DE DADOS</h2>
 
   <p align="center">
     Repositório que possui todos os projetos e exercícios <br>realizados na SPRINT 1 de Banco de Dados! 🎲
